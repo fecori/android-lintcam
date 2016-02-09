@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@id/root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <RelativeLayout
+        android:id="@id/root_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+    <ImageButton
+        android:id="@id/bt_sound"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/sound_icon_enable_selector"
+        android:contentDescription="@string/app_name"
+        android:visibility="visible" />
+
+    <ImageButton
+        android:id="@id/bt_honeycomb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:clickable="true"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/honey_icon_selector"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@id/honeycomb_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/hc_bubble_bg"
+        android:gravity="center"
+        android:maxLines="2"
+        android:maxWidth="@dimen/info_max_wide"
+        android:visibility="invisible" />
+
+    <RelativeLayout
+        android:id="@id/surfaceHolder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true" />
+
+</RelativeLayout>

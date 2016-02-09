@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="adlayout">false</item>
+    <item type="id" name="cover_view">false</item>
+    <item type="id" name="white_bg">false</item>
+    <item type="id" name="ad_title">false</item>
+    <item type="id" name="ad_body">false</item>
+    <item type="id" name="ad_download">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="subDescription">false</item>
+    <item type="id" name="checkshow">false</item>
+    <item type="id" name="root">false</item>
+    <item type="id" name="root_view">false</item>
+    <item type="id" name="bt_sound">false</item>
+    <item type="id" name="bt_honeycomb">false</item>
+    <item type="id" name="honeycomb_info">false</item>
+    <item type="id" name="surfaceHolder">false</item>
+    <item type="id" name="ad_position">false</item>
+    <item type="id" name="ad_banner">false</item>
+    <item type="id" name="levelzero">false</item>
+    <item type="id" name="widgetback">false</item>
+    <item type="id" name="setting_items">false</item>
+    <item type="id" name="setting">false</item>
+</resources>

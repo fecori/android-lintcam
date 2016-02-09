@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Linterna LED Light</string>
+    <string name="banner_ad_unit_id_top">ca-app-pub-1925273469404278/7759784541</string>
+    <string name="banner_ad_unit_id_bottom">ca-app-pub-1925273469404278/1501428140</string>
+    <string name="banner_ad_unit_id_fullscreen">ca-app-pub-1925273469404278/1222226541</string>
+    <string name="encender">Encender</string>
+</resources>
